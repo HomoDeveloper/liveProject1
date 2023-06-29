@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T08:05:34 CEST" name="All Test Suite" finished-at="2023-06-29T08:06:01 CEST" duration-ms="27306">
+    <groups>
+    </groups>
+    <test started-at="2023-06-29T08:05:34 CEST" name="C:/Users/v.kefalas/IdeaProjects/liveProject1/src/test/java/uk/co/automationtesting/AddRemoveItemBasketTest.java" finished-at="2023-06-29T08:05:56 CEST" duration-ms="22910">
+      <class name="uk.co.automationtesting.AddRemoveItemBasketTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@6dc17b83]" started-at="2023-06-29T08:05:34 CEST" name="setUp" finished-at="2023-06-29T08:05:40 CEST" duration-ms="6441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addRemoveItem()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@6dc17b83]" started-at="2023-06-29T08:05:40 CEST" name="addRemoveItem" finished-at="2023-06-29T08:05:56 CEST" duration-ms="16197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRemoveItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@6dc17b83]" started-at="2023-06-29T08:05:56 CEST" name="tearDown" finished-at="2023-06-29T08:05:56 CEST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.co.automationtesting.AddRemoveItemBasketTest -->
+    </test> <!-- C:/Users/v.kefalas/IdeaProjects/liveProject1/src/test/java/uk/co/automationtesting/AddRemoveItemBasketTest.java -->
+    <test started-at="2023-06-29T08:05:34 CEST" name="C:/Users/v.kefalas/IdeaProjects/liveProject1/src/test/java/uk/co/automationtesting/OrderCompleteTest.java" finished-at="2023-06-29T08:06:01 CEST" duration-ms="27306">
+      <class name="uk.co.automationtesting.OrderCompleteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:uk.co.automationtesting.OrderCompleteTest@16d04d3d]" started-at="2023-06-29T08:05:34 CEST" name="setUp" finished-at="2023-06-29T08:05:40 CEST" duration-ms="6664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="endToEndTest()[pri:0, instance:uk.co.automationtesting.OrderCompleteTest@16d04d3d]" started-at="2023-06-29T08:05:40 CEST" name="endToEndTest" finished-at="2023-06-29T08:06:01 CEST" duration-ms="20443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:uk.co.automationtesting.OrderCompleteTest@16d04d3d]" started-at="2023-06-29T08:06:01 CEST" name="tearDown" finished-at="2023-06-29T08:06:01 CEST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.co.automationtesting.OrderCompleteTest -->
+    </test> <!-- C:/Users/v.kefalas/IdeaProjects/liveProject1/src/test/java/uk/co/automationtesting/OrderCompleteTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
